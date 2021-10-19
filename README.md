@@ -7,6 +7,7 @@ Error 404 page is also shown.
 User can either register with custom email and password or directly sign in via google.
 Reloading in services detail page after log in won't redirect again to log in page.
 Email and Password verification is also added.
+I have used Context Api.
 Website is deployed in Firebase.
 
 
